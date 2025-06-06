@@ -41,6 +41,7 @@
     "encoding": "^0.1.13",
     "jsdom": "^24.1.0",
     "lokijs": "^1.5.12",
+    "null-loader": "^4.0.1",
     "pino-pretty": "^10.2.0",
     "postcss": "^8.4.38",
     "supports-color": "^9.4.0",
