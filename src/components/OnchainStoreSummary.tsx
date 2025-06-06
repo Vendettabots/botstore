@@ -10,7 +10,7 @@ export default function OnchainStoreSummary() {
           style={{
             fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif",
             fontWeight: 700,
-            fontStretch: 'condensed',
+            letterSpacing: '-0.5px',
           }}
         >
           No monthly fees. No noise. Just pure alpha.
