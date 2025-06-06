@@ -13,12 +13,10 @@ export default function OnchainStoreSummary() {
             fontStretch: 'condensed',
           }}
         >
-          The future of commerce is less fee. More creativity.
+          No monthly fees. No noise. Just pure alpha.
         </h2>
         <p className="text-sm leading-relaxed">
-          People and businesses lose tens of billions of dollars in transaction
-          fees and countless hours in delays to the current system that they
-          wouldn't with onchain payments.
+          SniperSignal delivers real-time crypto signals powered by elite bots and raw market advantage.
         </p>
         <p className="text-sm leading-relaxed">
           We're updating the system so it's cheaper and faster.
