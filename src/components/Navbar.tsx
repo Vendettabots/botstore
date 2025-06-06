@@ -46,10 +46,7 @@ export default function Navbar() {
       <div className="mx-auto flex h-full max-w-5xl items-center px-4 py-2 lg:px-6">
         <div className="flex w-full items-center justify-between">
           <div className="flex items-center space-x-3">
-            <OnchainKitShopSvg />
-            <span className="ock-bg-alternate ock-text-foreground rounded-sm px-2 py-0.5 font-regular text-xs">
-              Template
-            </span>
+            <span className="font-bold text-sm text-black">SniperSignal</span>
           </div>
           <nav className="hidden md:block">
             <ul className="flex space-x-6">
