@@ -50,7 +50,7 @@ export default function Navbar() {
           </div>
           <nav className="hidden md:block">
             <ul className="flex space-x-6">
-              <NavbarLink link={TEMPLATE_LINK} label="NEED A CUSTOM BOT?" />
+              <NavbarLink link="/custom-bot" label="NEED A CUSTOM BOT?" />
               <NavbarLink link={ONCHAINKIT_LINK} label="ONCHAINKIT" />
               <NavbarLink link={TWITTER_LINK} label="X" />
             </ul>
